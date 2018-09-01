@@ -118,7 +118,7 @@
         "MO": "I",
         "category": "pěší",
         "description": "Rozšíříme přechod na šířku navazujícího chodníku, posuneme přejezd pro cyklisty.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/2.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/2.jpg"
       }
     },
     {
@@ -417,7 +417,7 @@
         "MO": "I",
         "category": "pěší",
         "description": "Zkrátíme délku čekání na zelenou pro chodce. Zavedeme dynamické řízení (i automatické vypnutí), aby střídání fázi odpovídalo aktuálnímu provozu tak, aby chodci nebyly zbytečně zdržování ve chvílích, kdy to není nezbytné pro kapacitu průjezdu.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/6.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/6.jpg"
       }
     },
     {
@@ -1288,7 +1288,7 @@
         "MO": "I, V",
         "category": "cyklo",
         "description": "Uděláme cyklopruhy na 17. listopadu, Jana Palacha, Zborovském náměstí a Chrudimské. Lidé se tak na kole dostanou bezpečně a plynule mezi jižní částí města a centrem, aniž by při to ohrozili chodce na chodnících nebo zdrželi MHD a auta.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/16.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/16.jpg"
       }
     },
     {
@@ -1758,7 +1758,7 @@
         "MO": "V, VI",
         "category": "pěší",
         "description": "Vybudujeme bezpečný a přímý pěší přístup z Dukly na vlakovou zastávku na závodišti. Přebíhání osob přes silnici I/37 považujeme za krajně nebezpečné. Konkrétní způsob překonání silnice I/37 projednáme s jejím správcem (ŘSD).",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/18.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/18.jpg"
       }
     },
     {
@@ -2050,7 +2050,7 @@
         "MO": "I",
         "category": "MHD",
         "description": "Chceme postavit terminál B. Budeme se ale dál zabýval tím, jak se má Přednádraží používat a organizovat, z hlediska veřejné hromadné dopravy i obecně. Naším ideálem je odbavit všechny cestují s MHD i linkových autobusů ve stávajícím prostoru terminálu A.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/21.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/21.jpg"
       }
     },
     {
@@ -2143,7 +2143,7 @@
         "MO": "VI",
         "category": "pěší",
         "description": "Propojíme pohodlně a bezpečně pro chodce a cyklisty stezku podél Pražské, zastávku a Svítkov.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/22.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/22.jpg"
       }
     },
     {
@@ -2972,7 +2972,7 @@
         "MO": "VI",
         "category": "MHD",
         "description": "Upravíme zastávku Letiště tak, aby byla pohodlná, bezpečná a bezbariérová.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/31.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/31.jpg"
       }
     },
     {
@@ -4137,7 +4137,7 @@
         "MO": "I",
         "category": "pěší",
         "description": "Vypneme semafory na přechodu na Masarykově náměstí. Toto opatření řeší jen plynulost automobilové dopravy (která stejně vázne i na jiných místech) a zcela opomíjí potřeby chodců a přestupujících v MHD. Navrhneme rychlé i trvalé řešení, které bude vyhovovat autům, MHD, chodcům i cyklistům.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/38.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/38.jpg"
       }
     },
     {
@@ -5510,7 +5510,7 @@
         "MO": "V",
         "category": "brownfield",
         "description": "Pohlídáme, aby brownfield na S. K. Neumanna byl vhodně využit. Navrhujeme, aby v části blíže Chrudimce vznikla čtvrť rodinných domů jako například u Matičního jezera a blíže ul. S. K. Neumanna bytové domy.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/44.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/44.jpg"
       }
     },
     {
@@ -5578,7 +5578,7 @@
         "MO": "I",
         "category": "brownfield",
         "description": "Budeme revidovat projekt rekonstrukce Letního stadionu a jeho okolí, s důrazem na kvalitu veřejných prostranství a na minimalizaci záboru pro monofunkční neveřejné využití.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/45.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/45.jpg"
       }
     },
     {
@@ -5885,7 +5885,7 @@
         "MO": "IV, V",
         "category": "rekreace",
         "description": "Získáme bývalý vojenský prostor na Chrudimce do majetku města, aby zde mohl vzniknout přírodě blízký park, který bude sloužit pro každodenní rekreaci i jako pěší a cyklistická spojnice mezi Pardubičkami a Višňovkou.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/48.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/48.jpg"
       }
     },
     {
@@ -6020,7 +6020,7 @@
         "MO": "I",
         "category": "veřejný prostor",
         "description": "Zasypeme podchod u Zelené brány. Definitivně se tak zbavíme dědictví doby, kdy se lidé museli (i v centru města) schovávat, aby nepřekáželi automobilovému provozu.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/50.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/50.jpg"
       }
     },
     {
@@ -6230,7 +6230,7 @@
         "MO": "I",
         "category": "brownfield",
         "description": "Automatické mlýny a jejich okolí jsou velmi cenné rozvojové území, kterému dominuje národní kulturní památka, postavená dle návrhu architekta Josefa Gočára.\nChceme v areálu vybudovat prostory pro polytechnické dílny a městkou galerii i se aktivně podílet na jeho dalším rozvoji.\nDokončíme pořízení regulačního plánu:\nhttps://www.pardubice.eu/urad/radnice/uzemni-planovani/regulacni-plany-mesta-pardubice/regulacni-plany-z-podnetu/regulacni-plan-mlyny/",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/52.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/52.jpg"
       }
     },
     {
@@ -6377,7 +6377,7 @@
         "MO": "I",
         "category": "rekreace",
         "description": "Doplníme žebřík z vody na molo v Parku Na Špici.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/55.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/55.jpg"
       }
     },
     {
@@ -6440,7 +6440,7 @@
         "MO": "V",
         "category": "rekreace",
         "description": "Prozkoumáme možnosti využití kina Dukla. Věříme, že město velikosti Pardubic by mělo mít alespoň jedno klubové kino po vzoru pražského Aera nebo hradeckého Centralu.\nBudeme prosazovat, aby kino ožilo nejen po stránce dramaturgie, ale aby nabídlo i přidružené služby (bar, posezení).",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/56.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/56.jpg"
       }
     },
     {
@@ -6503,7 +6503,7 @@
         "MO": "V",
         "category": "veřejný prostor",
         "description": "Zasadíme se o smysluplné využití chátrajícího objektu bývalé hospody „U Bobra“. Chceme, aby měl využití pro širokou veřejnost.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/57.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/57.jpg"
       }
     },
     {
@@ -6596,7 +6596,7 @@
         "MO": "V",
         "category": "veřejný prostor",
         "description": "Pro umocnění pocitu „jsem v přírodě“ budeme prosazovat vybudování protihlukových stěn okolo silnice I/37 po celé délce Lesoparku Dukla.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/58.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/58.jpg"
       }
     },
     {
@@ -6649,7 +6649,7 @@
         "MO": "V",
         "category": "rekreace",
         "description": "Prosadíme, aby byl v rámci dukelského lesoparku vytyčen prostor, kde je možné používat vlastní gril.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/59.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/59.jpg"
       }
     },
     {
@@ -6692,7 +6692,7 @@
         "MO": "V",
         "category": "brownfield",
         "description": "Chceme, aby byl prostor bývalých kasáren T. G. Masaryka využit jako prostor pro novou čtvrť.\nVyužijeme územní studii:\nhttps://www.pardubice.eu/urad/radnice/uzemni-planovani/uzemni-studie-mesta-pardubice/uzemni-studie-masarykovy-kasarny/",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/60.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/60.jpg"
       }
     },
     {
@@ -6745,7 +6745,7 @@
         "MO": "V",
         "category": "brownfield",
         "description": "Sklady mezi železnicí a Milheimovou ulicí jsou příležitostí pro výstavbu objektů pro administrativu a obchod. Dále od železnice by pak mohlo vzniknout i bydlení.\nS lávkou na nádraží a výstavbou terminálu Přednádraží jih atraktivita toho území výrazně vzroste.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/61.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/61.jpg"
       }
     },
     {
@@ -7475,7 +7475,7 @@
         "MO": "V",
         "category": "veřejný prostor",
         "description": "Plně podporujeme projekt revitalizace dukelského sportoviště coby ukázkové zapojení odborné veřejnosti do hledání potřeb sportovních klubů. Trváme ale na tom, že tím kdo ponese většinu nákladů na realizaci, nebude město.",
-        "img": "https://pardubice.pirati.cz/assets/img/intention-map/63.jpg"
+        "image": "https://pardubice.pirati.cz/assets/img/intention-map/63.jpg"
       }
     },
     {
