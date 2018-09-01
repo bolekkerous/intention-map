@@ -74,7 +74,7 @@
         "name": "Chodník u Reálky",
         "category": "pěší",
         "description": "Vrátíme chodník k Reálce. Lidé zde mimo jiné chodí z druhého břehu na zastávku MHD.",
-        "id": "1.0",
+        "id": 1,
         "meta:MO": "I"
       }
     },
@@ -117,7 +117,7 @@
         "category": "pěší",
         "description": "Rozšíříme přechod na šířku navazujícího chodníku, posuneme přejezd pro cyklisty.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/2.jpg",
-        "id": "2.0",
+        "id": 2,
         "meta:MO": "I"
       }
     },
@@ -159,7 +159,7 @@
         "name": "Cykloobousměrka Jindřišská",
         "category": "cyklo",
         "description": "Obnovíme nesmyslně zrušenou cykloobousměrku v Jindřišské.",
-        "id": "3.0",
+        "id": 3,
         "meta:MO": "I"
       }
     },
@@ -246,7 +246,7 @@
         "name": "Rychlodráha a její propojení s nadjezdem u nemocnice",
         "category": "auta",
         "description": "Propojíme rychlodráhu s nadjezdem u nemocnice a budeme hledat efektivní řešení pro zkapacitnění propojení rychlodráhy s Anenským podjezdem.",
-        "id": "4.0",
+        "id": 4,
         "meta:MO": "I, IV, V"
       }
     },
@@ -373,7 +373,7 @@
         "name": "Propojení do Nové Cihelny",
         "category": "pěší",
         "description": "Propojíme \"Novou\" a \"starou\" Cihelnu cestou pro pěší a cyklisty. Pro Novou Cihelnu to bude nejkratší cesta do města, pro \"starou\" naopak ven z města do krajiny.",
-        "id": "5.0",
+        "id": 5,
         "meta:MO": "II"
       }
     },
@@ -416,7 +416,7 @@
         "category": "pěší",
         "description": "Zkrátíme délku čekání na zelenou pro chodce. Zavedeme dynamické řízení (i automatické vypnutí), aby střídání fázi odpovídalo aktuálnímu provozu tak, aby chodci nebyly zbytečně zdržování ve chvílích, kdy to není nezbytné pro kapacitu průjezdu.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/6.jpg",
-        "id": "6.0",
+        "id": 6,
         "meta:MO": "I"
       }
     },
@@ -458,7 +458,7 @@
         "name": "Přechod u pivovaru",
         "category": "pěší",
         "description": "Dlouhý přechod přes zbytečné pruhy zkrátíme, vložíme do něj ostrůvek.",
-        "id": "7.0",
+        "id": 7,
         "meta:MO": "I"
       }
     },
@@ -500,7 +500,7 @@
         "name": "Přechod na Palackého u zastávky",
         "category": "pěší",
         "description": "Na přechodu zřídíme ochranný ostrůvek. Usnadníme tak přecházení a zároveň zpřehledníme situaci i pro řidiče.",
-        "id": "8.0",
+        "id": 8,
         "meta:MO": "I"
       }
     },
@@ -542,7 +542,7 @@
         "name": "Prodloužení řadicího pruhu Palackého > K Polabinám",
         "category": "auta",
         "description": "Prodloužíme řadicí pruh pro levé odbočení až k přechodu (kde zřídíme ochranný ostrůvek). Toto levé odbočení využívá mnoho řidičů pro cestu na Sukovu třídu a do Polabin. Přitom uspořádání se od vybudování propojky u telefonní ústředny a obchodního paláce nezměnilo.",
-        "id": "9.0",
+        "id": 9,
         "meta:MO": "I"
       }
     },
@@ -774,7 +774,7 @@
         "name": "Stezka Pardubičky–Višňovka",
         "category": "cyklo",
         "description": "Vytvoříme komfortní propojení pro pěší a cyklisty přes bývalý vojenský prostor Červeňák. Přiblížíme tak Pardubičky a Višňovku.",
-        "id": "10.0",
+        "id": 10,
         "meta:MO": "IV, V"
       }
     },
@@ -841,7 +841,7 @@
         "name": "Přecházení pod lávkou u Prioru",
         "category": "pěší",
         "description": "Zlegalizujeme přecházení pod lávkou. Doplníme chodník mezi stezkou a chodníkem podél domů, kde se už léta chodí a jezdí na kole po hlíně.",
-        "id": "11.0",
+        "id": 11,
         "meta:MO": "I"
       }
     },
@@ -883,7 +883,7 @@
         "name": "Přechod přes Sukovu u Sladkovského",
         "category": "pěší",
         "description": "Rozšíříme střední dělicí pás v místě přechodu tak, aby zde vznikl ochranný ostrůvek. Počet jízdních pruhů zachováme, jen je zúžíme.",
-        "id": "12.0",
+        "id": 12,
         "meta:MO": "I"
       }
     },
@@ -925,7 +925,7 @@
         "name": "Přechod přes Sukovu u Tyršáků",
         "category": "pěší",
         "description": "Rozšíříme střední dělicí pás v místě přechodu tak, aby zde vznikl ochranný ostrůvek. Počet jízdních pruhů zachováme, jen je zúžíme.",
-        "id": "13.0",
+        "id": 13,
         "meta:MO": "I"
       }
     },
@@ -1072,7 +1072,7 @@
         "name": "Jižní předmostí zdymadla",
         "category": "pěší",
         "description": "Zrealizujeme stavebně chodník pod zdymadlem, který je dnes oddělen jen betonovým svodidlem a sloupky. Do svahu doplníme schodiště, abychom zpříjemnili pokračování ze zdymadla do Labské a na Špici.",
-        "id": "14.0",
+        "id": 14,
         "meta:MO": "I, II"
       }
     },
@@ -1134,7 +1134,7 @@
         "name": "Stezka podél věznice",
         "category": "cyklo",
         "description": "Doplníme stezku podél zdi věznice za shellkou a napojíme ji na Sezemickou ulici.",
-        "id": "15.0",
+        "id": 15,
         "meta:MO": "III"
       }
     },
@@ -1287,7 +1287,7 @@
         "category": "cyklo",
         "description": "Uděláme cyklopruhy na 17. listopadu, Jana Palacha, Zborovském náměstí a Chrudimské. Lidé se tak na kole dostanou bezpečně a plynule mezi jižní částí města a centrem, aniž by při to ohrozili chodce na chodnících nebo zdrželi MHD a auta.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/16.jpg",
-        "id": "16.0",
+        "id": 16,
         "meta:MO": "I, V"
       }
     },
@@ -1704,7 +1704,7 @@
         "name": "Cyklopruhy na Jana Palacha, Zborovském náměstí a Chrudimské",
         "category": "cyklo",
         "description": "Uděláme cyklopruhy na 17. listopadu, Jana Palacha, Zborovském náměstí a Chrudimské. Lidé se tak na kole dostanou bezpečně a plynule mezi jižní částí města a centrem, aniž by při to ohrozili chodce na chodnících nebo zdrželi MHD a auta.",
-        "id": "17.0",
+        "id": 17,
         "meta:MO": "I, V"
       }
     },
@@ -1757,7 +1757,7 @@
         "category": "pěší",
         "description": "Vybudujeme bezpečný a přímý pěší přístup z Dukly na vlakovou zastávku na závodišti. Přebíhání osob přes silnici I/37 považujeme za krajně nebezpečné. Konkrétní způsob překonání silnice I/37 projednáme s jejím správcem (ŘSD).",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/18.jpg",
-        "id": "18.0",
+        "id": 18,
         "meta:MO": "V, VI"
       }
     },
@@ -1939,7 +1939,7 @@
         "name": "MHD na koupaliště",
         "category": "MHD",
         "description": "Zavedeme v letní sezóně MHD ke koupališti na Cihelně, která bude sloužit i pro návštěvníky lanového centra či vyznavače in-line bruslí.",
-        "id": "19.0",
+        "id": 19,
         "meta:MO": "II"
       }
     },
@@ -2001,7 +2001,7 @@
         "name": "MHD na rosické nádraží",
         "category": "MHD",
         "description": "Zavedeme MHD na rosické nádraží.",
-        "id": "20.0",
+        "id": 20,
         "meta:MO": "VII"
       }
     },
@@ -2049,7 +2049,7 @@
         "category": "MHD",
         "description": "Chceme postavit terminál B. Budeme se ale dál zabýval tím, jak se má Přednádraží používat a organizovat, z hlediska veřejné hromadné dopravy i obecně. Naším ideálem je odbavit všechny cestují s MHD i linkových autobusů ve stávajícím prostoru terminálu A.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/21.jpg",
-        "id": "21.0",
+        "id": 21,
         "meta:MO": "I"
       }
     },
@@ -2142,7 +2142,7 @@
         "category": "pěší",
         "description": "Propojíme pohodlně a bezpečně pro chodce a cyklisty stezku podél Pražské, zastávku a Svítkov.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/22.jpg",
-        "id": "22.0",
+        "id": 22,
         "meta:MO": "VI"
       }
     },
@@ -2234,7 +2234,7 @@
         "name": "Prostupná Veterina",
         "category": "pěší",
         "description": "Zprostupníme areál Veteriny pro pěší a cyklisty. Je to možné snadno po městských pozemcích probouráním zdi a vybudováním krátké cesty.",
-        "id": "23.0",
+        "id": 23,
         "meta:MO": "I"
       }
     },
@@ -2351,7 +2351,7 @@
         "name": "Křižovatka Pražská x Školní",
         "category": "auta",
         "description": "Ve spolupráci s Ředitelstvím silnic a dálnic ČR (správcem Pražské) zajistíme vyřešení neutěšené situace na výjezdu ze Svítkova u závodiště.",
-        "id": "24.0",
+        "id": 24,
         "meta:MO": "VI"
       }
     },
@@ -2428,7 +2428,7 @@
         "name": "Dopravní napojení Orebská",
         "category": "auta",
         "description": "Zlepšíme dopravní napojení oblasti Svítkov V., aniž bychom zatížili stávající obytné ulice.",
-        "id": "25.0",
+        "id": 25,
         "meta:MO": "VI"
       }
     },
@@ -2500,7 +2500,7 @@
         "name": "Křižovatka Žižkova x Na Humenském",
         "category": "auta",
         "description": "Zlepšíme rozhledy na výjezdu z ulice Na Humenském.",
-        "id": "26.0",
+        "id": 26,
         "meta:MO": "VI"
       }
     },
@@ -2652,7 +2652,7 @@
         "name": "Chodník/stezka Pražská (Popkovická – U Bylanky)",
         "category": "pěší",
         "description": "Prodloužíme stezku pro chodce a cyklisty podél Pražské po ulici U Bylanky.",
-        "id": "27.0",
+        "id": 27,
         "meta:MO": "VI"
       }
     },
@@ -2744,7 +2744,7 @@
         "name": "Lávka přes Labe mezi Svítkovem a Rosicemi",
         "category": "pěší",
         "description": "Bezpečná cesta pro pěší a cyklisty přes Labe mezi Svítkovem a Rosicemi je slibována už více než dvě volební období. Zajistíme, aby byla konečně vybudována lávka mezi oběma břehy.",
-        "id": "28.0",
+        "id": 28,
         "meta:MO": "VI, VII"
       }
     },
@@ -2786,7 +2786,7 @@
         "name": "Pěšky a na kole na letiště",
         "category": "pěší",
         "description": "Propojíme ulici Žižkovu pro pěší a cyklisty s prostorem letištního terminálu. Současně budeme usilovat o oživení terminálu, aby se stal součástí života místních. Tímto propojením se navíc zkrátí docházková vzdálenost ze zastávek MHD (Popkovice, hostinec a Popkovice, křižovatka) k terminálu (pod 500 metrů).",
-        "id": "29.0",
+        "id": 29,
         "meta:MO": "VI"
       }
     },
@@ -2918,7 +2918,7 @@
         "name": "Stezka podél Bylanky a okruh Popkovicemi",
         "category": "cyklo",
         "description": "Dobudujeme stezku podél Bylanky u letiště, a zokruhujeme tak stávající úseky.",
-        "id": "30.0",
+        "id": 30,
         "meta:MO": "VI"
       }
     },
@@ -2971,7 +2971,7 @@
         "category": "MHD",
         "description": "Upravíme zastávku Letiště tak, aby byla pohodlná, bezpečná a bezbariérová.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/31.jpg",
-        "id": "31.0",
+        "id": 31,
         "meta:MO": "VI"
       }
     },
@@ -3218,7 +3218,7 @@
         "name": "Cyklopruhy Rosice–Kaufland",
         "category": "cyklo",
         "description": "Vyznačíme cyklopruhy mezi Rosicemi (přes nadjezd) a Polabinami/Kauflandem.",
-        "id": "32.0",
+        "id": 32,
         "meta:MO": "II, VII"
       }
     },
@@ -3330,7 +3330,7 @@
         "name": "Křižovatka na Pražské u Zlaté přilby",
         "category": "auta",
         "description": "Ve spolupráci s Ředitelstvím silnic a dálnic ČR (správcem Pražské) připravíme úpravu křižovatky. Připravíme se tak na novou zástavbu u plochodrážního stadionu i zklidnění Žižkovy ulice.",
-        "id": "33.0",
+        "id": 33,
         "meta:MO": "VI"
       }
     },
@@ -3372,7 +3372,7 @@
         "name": "Oprava Sezemické ulice",
         "category": "auta",
         "description": "Opravíme povrch v Sezemické ulici a uspořádáme zde zažitý způsob parkování.",
-        "id": "34.0",
+        "id": 34,
         "meta:MO": "I, III"
       }
     },
@@ -3794,7 +3794,7 @@
         "name": "Cyklopruhy Dašická",
         "category": "cyklo",
         "description": "Chceme pokračovat v realizaci cyklopruhů a návazné cyklostezky na Dašické a dále na Černou za Bory a Staročernsko.",
-        "id": "35.0",
+        "id": 35,
         "meta:MO": "I, III, IV"
       }
     },
@@ -3936,7 +3936,7 @@
         "name": "Křižovatka u Kostelíčka",
         "category": "auta",
         "description": "Zpřehledníme křižovatku u Kostelíčka. Levnými opatřeními usměrníme pohyby v křižovatce a vyjasníme přednosti. Začneme připravovat její rekonstrukci včetně přilehlého prostranství a úseku Štrossovy ul. směrem do centra.",
-        "id": "36.0",
+        "id": 36,
         "meta:MO": "I, IV"
       }
     },
@@ -4093,7 +4093,7 @@
         "name": "Křižovatka u elektrotechny",
         "category": "auta",
         "description": "Upravíme křižovatku u elektrotechny. Napřímíme hlavní a doplníme opatření pro cyklisty a ostrůvek pro chodce, aby křižovatka byla přehledná a bezpečná pro všechny, a to i při vypnutých semaforech.",
-        "id": "37.0",
+        "id": 37,
         "meta:MO": "I"
       }
     },
@@ -4136,7 +4136,7 @@
         "category": "pěší",
         "description": "Vypneme semafory na přechodu na Masarykově náměstí. Toto opatření řeší jen plynulost automobilové dopravy (která stejně vázne i na jiných místech) a zcela opomíjí potřeby chodců a přestupujících v MHD. Navrhneme rychlé i trvalé řešení, které bude vyhovovat autům, MHD, chodcům i cyklistům.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/38.jpg",
-        "id": "38.0",
+        "id": 38,
         "meta:MO": "I"
       }
     },
@@ -4188,7 +4188,7 @@
         "name": "Zklidnění Nemošické",
         "category": "pěší",
         "description": "Vybudujeme chybějící přechody pro pěší v obydlené části ul. Nemošická.",
-        "id": "39.0",
+        "id": 39,
         "meta:MO": "V"
       }
     },
@@ -4250,7 +4250,7 @@
         "name": "Cyklostezka Hradecká",
         "category": "cyklo",
         "description": "Propojíme cyklostezku podél Hradecké tak, aby bylo možné pohodlně a bezpečně projet od centra k univerzitnímu kampusu a sídlišti Cihelna.",
-        "id": "40.0",
+        "id": 40,
         "meta:MO": "II"
       }
     },
@@ -4312,7 +4312,7 @@
         "name": "Cyklostezka Stavařov",
         "category": "cyklo",
         "description": "Propojíme cyklostezku podél Hradecké se Stavařovem tak, aby bylo možné bezpečně dojet na Stavařov a k rektorátu. Eliminujeme kolizní místo u rohu domu.",
-        "id": "41.0",
+        "id": 41,
         "meta:MO": "II"
       }
     },
@@ -4794,7 +4794,7 @@
         "name": "MHD do Polabin III a V",
         "category": "MHD",
         "description": "Zavedeme linku MHD do Lonkovy ulice a Polabin III a V.",
-        "id": "42.0",
+        "id": 42,
         "meta:MO": "II"
       }
     },
@@ -5411,7 +5411,7 @@
         "name": "Promenáda na nábřeží",
         "category": "veřejný prostor",
         "description": "Využijeme potenciál nábřeží našich krásných řek a přivedeme k nim městský život. Na levém břehu Labe zřídíme promenádu od soutoku s Chrudimkou kolem zdymadla a telefonní ústředny a dále podél Závodu míru.",
-        "id": "43.0",
+        "id": 43,
         "meta:MO": "I"
       }
     },
@@ -5509,7 +5509,7 @@
         "category": "brownfield",
         "description": "Pohlídáme, aby brownfield na S. K. Neumanna byl vhodně využit. Navrhujeme, aby v části blíže Chrudimce vznikla čtvrť rodinných domů jako například u Matičního jezera a blíže ul. S. K. Neumanna bytové domy.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/44.jpg",
-        "id": "44.0",
+        "id": 44,
         "meta:MO": "V"
       }
     },
@@ -5577,7 +5577,7 @@
         "category": "brownfield",
         "description": "Budeme revidovat projekt rekonstrukce Letního stadionu a jeho okolí, s důrazem na kvalitu veřejných prostranství a na minimalizaci záboru pro monofunkční neveřejné využití.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/45.jpg",
-        "id": "45.0",
+        "id": 45,
         "meta:MO": "I"
       }
     },
@@ -5684,7 +5684,7 @@
         "name": "Prokopka",
         "category": "brownfield",
         "description": "Budeme aktivně komunikovat s investorem. Zajistíme co nejrychlejší zprůchodnění mezi Palackého a Závodu míru.",
-        "id": "46.0",
+        "id": 46,
         "meta:MO": "I"
       }
     },
@@ -5741,7 +5741,7 @@
         "name": "Kasárna Hůrka",
         "category": "brownfield",
         "description": "Neprodáme kasárna na Hůrkách na bytovou výstavbu. Budeme pro ně hledat jiné využití, které bude těžit z polohy za městem u silnice I. třídy. Mohou zde být například výrobní haly nebo stadion.",
-        "id": "47.0",
+        "id": 47,
         "meta:MO": "III"
       }
     },
@@ -5884,7 +5884,7 @@
         "category": "rekreace",
         "description": "Získáme bývalý vojenský prostor na Chrudimce do majetku města, aby zde mohl vzniknout přírodě blízký park, který bude sloužit pro každodenní rekreaci i jako pěší a cyklistická spojnice mezi Pardubičkami a Višňovkou.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/48.jpg",
-        "id": "48.0",
+        "id": 48,
         "meta:MO": "IV, V"
       }
     },
@@ -5976,7 +5976,7 @@
         "name": "Rekonstrukce Bělobranského náměstí",
         "category": "veřejný prostor",
         "description": "Zrekonstruujeme Bělobranské náměstí. Opravíme povrchy a usměrníme dopravu a parkování.",
-        "id": "49.0",
+        "id": 49,
         "meta:MO": "I"
       }
     },
@@ -6019,7 +6019,7 @@
         "category": "veřejný prostor",
         "description": "Zasypeme podchod u Zelené brány. Definitivně se tak zbavíme dědictví doby, kdy se lidé museli (i v centru města) schovávat, aby nepřekáželi automobilovému provozu.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/50.jpg",
-        "id": "50.0",
+        "id": 50,
         "meta:MO": "I"
       }
     },
@@ -6141,7 +6141,7 @@
         "name": "Brownfield Husovka",
         "category": "brownfield",
         "description": "Budeme rozvíjet území mezi Husovou ulicí a Haldou, které města vlastní současně s tamním bytovým domem.\nBudeme se inspirovat studentskými pracemi, které město pořídilo ve spolupráci fakultami několika vysokých škol:\nhttps://www.pardubice.eu/projekty/architektonicke-projekty/verejna-soutez-husova-ulice-1116-1119-revitalizace-bytovych-domu/navrhy-studentu/",
-        "id": "51.0",
+        "id": 51,
         "meta:MO": "I, III"
       }
     },
@@ -6229,7 +6229,7 @@
         "category": "brownfield",
         "description": "Automatické mlýny a jejich okolí jsou velmi cenné rozvojové území, kterému dominuje národní kulturní památka, postavená dle návrhu architekta Josefa Gočára.\nChceme v areálu vybudovat prostory pro polytechnické dílny a městkou galerii i se aktivně podílet na jeho dalším rozvoji.\nDokončíme pořízení regulačního plánu:\nhttps://www.pardubice.eu/urad/radnice/uzemni-planovani/regulacni-plany-mesta-pardubice/regulacni-plany-z-podnetu/regulacni-plan-mlyny/",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/52.jpg",
-        "id": "52.0",
+        "id": 52,
         "meta:MO": "I"
       }
     },
@@ -6291,7 +6291,7 @@
         "name": "Zásobování kavárny v Tyršových sadech",
         "category": "veřejný prostor",
         "description": "Vybudujeme zásobovací záliv na Sukově třídě, nebudeme auta běžně pouště do parku, kde pak parkují na promenádě.",
-        "id": "53.0",
+        "id": 53,
         "meta:MO": "I"
       }
     },
@@ -6333,7 +6333,7 @@
         "name": "Revitalizace Pernštýnského náměstí",
         "category": "veřejný prostor",
         "description": "Revitalizujeme Pernštýnské náměstí. Doplníme zeleň a mobiliář včetně stojanů na kola a pítka.",
-        "id": "54.0",
+        "id": 54,
         "meta:MO": "I"
       }
     },
@@ -6376,7 +6376,7 @@
         "category": "rekreace",
         "description": "Doplníme žebřík z vody na molo v Parku Na Špici.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/55.jpg",
-        "id": "55.0",
+        "id": 55,
         "meta:MO": "I"
       }
     },
@@ -6439,7 +6439,7 @@
         "category": "rekreace",
         "description": "Prozkoumáme možnosti využití kina Dukla. Věříme, že město velikosti Pardubic by mělo mít alespoň jedno klubové kino po vzoru pražského Aera nebo hradeckého Centralu.\nBudeme prosazovat, aby kino ožilo nejen po stránce dramaturgie, ale aby nabídlo i přidružené služby (bar, posezení).",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/56.jpg",
-        "id": "56.0",
+        "id": 56,
         "meta:MO": "V"
       }
     },
@@ -6502,7 +6502,7 @@
         "category": "veřejný prostor",
         "description": "Zasadíme se o smysluplné využití chátrajícího objektu bývalé hospody „U Bobra“. Chceme, aby měl využití pro širokou veřejnost.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/57.jpg",
-        "id": "57.0",
+        "id": 57,
         "meta:MO": "V"
       }
     },
@@ -6595,7 +6595,7 @@
         "category": "veřejný prostor",
         "description": "Pro umocnění pocitu „jsem v přírodě“ budeme prosazovat vybudování protihlukových stěn okolo silnice I/37 po celé délce Lesoparku Dukla.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/58.jpg",
-        "id": "58.0",
+        "id": 58,
         "meta:MO": "V"
       }
     },
@@ -6648,7 +6648,7 @@
         "category": "rekreace",
         "description": "Prosadíme, aby byl v rámci dukelského lesoparku vytyčen prostor, kde je možné používat vlastní gril.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/59.jpg",
-        "id": "59.0",
+        "id": 59,
         "meta:MO": "V"
       }
     },
@@ -6691,7 +6691,7 @@
         "category": "brownfield",
         "description": "Chceme, aby byl prostor bývalých kasáren T. G. Masaryka využit jako prostor pro novou čtvrť.\nVyužijeme územní studii:\nhttps://www.pardubice.eu/urad/radnice/uzemni-planovani/uzemni-studie-mesta-pardubice/uzemni-studie-masarykovy-kasarny/",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/60.jpg",
-        "id": "60.0",
+        "id": 60,
         "meta:MO": "V"
       }
     },
@@ -6744,7 +6744,7 @@
         "category": "brownfield",
         "description": "Sklady mezi železnicí a Milheimovou ulicí jsou příležitostí pro výstavbu objektů pro administrativu a obchod. Dále od železnice by pak mohlo vzniknout i bydlení.\nS lávkou na nádraží a výstavbou terminálu Přednádraží jih atraktivita toho území výrazně vzroste.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/61.jpg",
-        "id": "61.0",
+        "id": 61,
         "meta:MO": "V"
       }
     },
@@ -7421,7 +7421,7 @@
         "name": "Náhrdelník Chrudimky",
         "category": "veřejný prostor",
         "description": "Oživíme projekt Náhrdelníku Chrudimky, který spočívá ve zřízení pěších a cyklistických cest podél břehů a drobných zastavení včetně přístupů k vodě. Tento projekt vznikl v roce 2013 za účasti veřejnosti. Budeme prosazovat pokračování těchto tras dále proti toku Chrudimky (výhledově až do Chrudimi).",
-        "id": "62.0",
+        "id": 62,
         "meta:MO": "I, IV, V"
       }
     },
@@ -7474,7 +7474,7 @@
         "category": "veřejný prostor",
         "description": "Plně podporujeme projekt revitalizace dukelského sportoviště coby ukázkové zapojení odborné veřejnosti do hledání potřeb sportovních klubů. Trváme ale na tom, že tím kdo ponese většinu nákladů na realizaci, nebude město.",
         "image": "https://pardubice.pirati.cz/assets/img/intention-map/63.jpg",
-        "id": "63.0",
+        "id": 63,
         "meta:MO": "V"
       }
     },
@@ -7516,7 +7516,7 @@
         "name": "Zastávka Pardubice-centrum",
         "category": "MHD",
         "description": "Prosadíme železniční zastávku Pardubice-centrum v prostoru za Kávovinami. Po realizaci nové trati do Chrudimi výrazně zkrátí cestu z centra města do Hradce Králové, Chrudimi i Chocně.",
-        "id": "64.0",
+        "id": 64,
         "meta:MO": "I, V"
       }
     }
